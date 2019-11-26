@@ -1,0 +1,2 @@
+# getstarted
+angular new project
